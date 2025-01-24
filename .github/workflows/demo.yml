@@ -1,0 +1,8 @@
+name: 23f3001255@ds.study.iitm.ac.in
+on: push
+jobs:
+   my-job:
+       runs-on: ubuntu-latest
+       steps:
+                name: my-step
+                run: echo “23f3001255@ds.study.iitm.ac.in”
